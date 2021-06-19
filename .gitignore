@@ -1,6 +1,7 @@
 /.env
 /.vscode
-/config/*
 /data/*
-/logs/*
 .DS_Store
+
+error.log
+other_vhosts_access.log
